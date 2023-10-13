@@ -9,11 +9,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     Fragment fragment1, fragment2, fragment3, fragment4;
     FragmentManager fm;
     LinearLayout linearLayout1, linearLayout2, linearLayout3, linearLayout4;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
