@@ -65,7 +65,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .add(R.id.content_frame, fragment3)
                 .add(R.id.content_frame, fragment4);
         ft.commit();
-
     }
 
 

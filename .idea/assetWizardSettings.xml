@@ -310,9 +310,10 @@
                         </option>
                         <option name="values">
                           <map>
+                            <entry key="assetSourceType" value="FILE" />
                             <entry key="color" value="5ddc17" />
-                            <entry key="outputName" value="baseline_self_improvement_24" />
-                            <entry key="sourceFile" value="E:\_Project\AndroidProject\Homework" />
+                            <entry key="outputName" value="file" />
+                            <entry key="sourceFile" value="C:\Users\win10\Pictures\file.svg" />
                           </map>
                         </option>
                       </PersistentState>
